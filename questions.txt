@@ -1,0 +1,238 @@
+Is it manmade?
+Is it made of metal?
+Is it hollow?
+Is it hard to catch?
+Does it grow?
+Was it ever alive?
+Could you fit inside it?
+Does it have at least one hole?
+Can you hold it?
+Is it bigger than a loaf of bread?
+Does it live in groups?
+Can it keep you dry?
+Is part of it made of glass?
+Is it bigger than a car?
+Can you hold it in one hand?
+Is it manufactured?
+Is it bigger than a microwave oven?
+Is it alive?
+Does it have feelings?
+Can you pick it up?
+Is it an animal?
+Is it a body part?
+Is it a building?
+Is it a building part?
+Is it clothing?
+Is it furniture?
+Is it an insect?
+Is it a kitchen item?
+Is it man-made?
+Is it a tool?
+Can you eat it?
+Is it a vehicle?
+Is it a person?
+Is it a vegetable/plant?
+Is it a fruit?
+Is it made of metal?
+Is it made of plastic?
+Is part of it made of glass?
+Is it made of wood?
+Is it shiny?
+Can you see through it?
+Is it colorful?
+Does it change color?
+Is one more than one colored?
+Is it always the same color(s)?
+Is it white?
+Is it red?
+Is it orange?
+Is it flesh-colored?
+Is it yellow?
+Is it green?
+Is it blue?
+Is it silver?
+Is it brown?
+Is it black?
+Is it curved?
+Is it straight?
+Is it flat?
+Does it have a front and a back?
+Does it have a flat/straight top?
+Does it have flat/straight sides?
+Is taller than it is wide/long?
+Is it long?
+Is it pointed/sharp?
+Is it tapered?
+Is it round?
+Does it have corners?
+Is it symmetrical?
+Is it hairy?
+Is it fuzzy?
+Is it clear?
+Is it smooth?
+Is it soft?
+Is it heavy?
+Is it lightweight?
+Is it dense?
+Is it slippery?
+Can it change shape?
+Can it bend?
+Can it stretch?
+Can it break?
+Is it fragile?
+Does it have parts?
+Does it have moving parts?
+Does it come in pairs?
+Does it come in a bunch/pack?
+Does it live in groups?
+Is it part of something larger?
+Does it contain something else?
+Does it have internal structure?
+Does it open?
+Is it hollow?
+Does it have a hard inside?
+Does it have a hard outer shell?
+Does it have at least one hole?
+Is it alive?
+Was it ever alive?
+Is it a specific gender?
+Is it manufactured?
+Was it invented?
+Was it around 100 years ago?
+Are there many varieties of it?
+Does it come in different sizes?
+Does it grow?
+Is it smaller than a golfball?
+Is it bigger than a loaf of bread?
+Is it bigger than a microwave oven?
+Is it bigger than a bed?
+Is it bigger than a car?
+Is it bigger than a house?
+Is it taller than a person?
+Does it have a tail?
+Does it have legs?
+Does it have four legs?
+Does it have feet?
+Does it have paws?
+Does it have claws?
+Does it have horns/thorns/spikes?
+Does it have hooves?
+Does it have a face?
+Does it have a backbone?
+Does it have wings?
+Does it have ears?
+Does it have roots?
+Does it have seeds?
+Does it have leaves?
+Does it come from a plant?
+Does it have feathers?
+Does it have some sort of nose?
+Does it have a hard nose/beak?
+Does it contain liquid?
+Does it have wires or a cord?
+Does it have writing on it?
+Does it have wheels?
+Does it make a sound?
+Does it make a nice sound?
+Does it make sound continuously when active?
+Is its job to make sounds?
+Does it roll?
+Can it run?
+Is it fast?
+Can it fly?
+Can it jump?
+Can it float?
+Can it swim?
+Can it dig?
+Can it climb trees?
+Can it cause you pain?
+Can it bite or sting?
+Does it stand on two legs?
+Is it wild?
+Is it a herbivore?
+Is it a predator?
+Is it warm blooded?
+Is it a mammal?
+Is it nocturnal?
+Does it lay eggs?
+Is it conscious?
+Does it have feelings?
+Is it smart?
+Is it mechanical?
+Is it electronic?
+Does it use electricity?
+Can it keep you dry?
+Does it provide protection?
+Does it provide shade?
+Does it cast a shadow?
+Do you see it daily?
+Is it helpful?
+Do you interact with it?
+Can you touch it?
+Would you avoid touching it?
+Can you hold it?
+Can you hold it in one hand?
+Do you hold it to use it?
+Can you play it?
+Can you play with it?
+Can you pet it?
+Can you use it?
+Do you use it daily?
+Can you use it up?
+Do you use it when cooking?
+Is it used to carry things?
+Can you pick it up?
+Can you control it?
+Can you sit on it?
+Can you ride on/in it?
+Is it used for transportation?
+Could you fit inside it?
+Is it used in sports?
+Do you wear it?
+Can it be washed?
+Is it cold?
+Is it cool?
+Is it warm?
+Is it hot?
+Is it unhealthy?
+Is it hard to catch?
+Can you peel it?
+Can you walk on it?
+Can you switch it on and off?
+Can it be easily moved?
+Do you drink from it?
+Does it go in your mouth?
+Is it tasty?
+Is it used during meals?
+Does it have a strong smell?
+Does it smell good?
+Does it smell bad?
+Is it usually inside?
+Is it usually outside?
+Would you find it on a farm?
+Would you find it in a school?
+Would you find it in a zoo?
+Would you find it in an office?
+Would you find it in a restaurant?
+Would you find in the bathroom?
+Would you find it in a house?
+Would you find it near a road?
+Would you find it in a dump/landfill?
+Would you find it in the forest?
+Would you find it in a garden?
+Would you find it in the sky?
+Do you find it in space?
+Does it live above ground?
+Does it get wet?
+Does it live in water?
+Can it live out of water?
+Do you take care of it?
+Does it make you happy?
+Do you love it?
+Would you miss it if it were gone?
+Is it scary?
+Is it dangerous?
+Is it friendly?
+Is it rare?
+Can you buy it?
+Is it valuable?
